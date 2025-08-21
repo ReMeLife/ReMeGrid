@@ -30,7 +30,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>io.remegrid.ReMeGridMain</mainClass>
+							<mainClass>io.remelife.ReMeGridMain</mainClass>
 							<!-- Used to add Maven implementation version  -->
 							<addDefaultImplementationEntries>
 								true

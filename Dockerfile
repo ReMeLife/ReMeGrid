@@ -1,5 +1,5 @@
 # Use Eclipse Temurin JDK 24 as base image
-FROM eclipse-temurin:24-jdk-jammy
+FROM eclipse-temurin:24.0.2_12-jdk-alpine
 
 # Set working directory
 WORKDIR /remegrid
