@@ -1,0 +1,26 @@
+# Maven build artifacts
+target/
+!target/*.jar
+
+# Source code (not needed in runtime image)
+src/
+pom.xml
+
+# IDE files
+.idea/
+.vscode/
+*.iml
+
+# Git files
+.git/
+.gitignore
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Test files
+src/test/
