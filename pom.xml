@@ -5,6 +5,9 @@
 	<groupId>io.remelife</groupId>
 	<artifactId>remegrid</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	
+	<name>ReMeGrid</name>
+	<description>ReMeGrid server node and smart contract management</description>
   
   	<properties>
 		<maven.compiler.release>21</maven.compiler.release>
@@ -27,7 +30,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>io.remegrid.Main</mainClass>
+							<mainClass>io.remegrid.ReMeGridMain</mainClass>
 							<!-- Used to add Maven implementation version  -->
 							<addDefaultImplementationEntries>
 								true
