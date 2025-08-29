@@ -4,6 +4,12 @@
 
 ---
 
+## License
+
+This project is licensed under the [Apache 2.0 License with ReMeLife custom clauses]
+
+---
+
 ## Ecosystem Components
 
 ### ReMeLife Tokens
